@@ -1,9 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mojeb</h1>
 <h3 align="center">A passionate to explore the news, cybersecurity enthusiast</h3>
-https://cdn.dribbble.com/userupload/3898108/file/still-2922cb3ec3706c1517028eefd9feecce.gif?resize=400x0
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mojebvv&label=Profile%20views&color=0e75b6&style=flat" alt="mojebvv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mojeb1v" target="blank"><img src="https://img.shields.io/twitter/follow/mojeb1v?logo=twitter&style=for-the-badge" alt="mojeb1v" /></a> </p>
 
