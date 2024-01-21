@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mojeb1v" target="blank"><img src="https://img.shields.io/twitter/follow/mojeb1v?logo=twitter&style=for-the-badge" alt="mojeb1v" /></a> </p>
 
-- 🌱 I’m currently learning **Red Team skill**
+- 🌱 I’m currently learning **-- skill**
 
 - 💬 My belief in evolution **is that causation lead to explore ideas**
 
